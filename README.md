@@ -5,3 +5,5 @@ This is the code accompanying the paper "Preferences Implicit in the State of th
 Tests can be run with `python setup.py test`.
 
 Instructions for running the experiments can be found in `experiments.sh`. The script `experiments-for-plots.sh` generates the plots from the paper.
+
+The paper is saved as "2019_implicitesPreferences_Berkeley.pdf" on my computer.
